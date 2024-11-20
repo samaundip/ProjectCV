@@ -13,9 +13,13 @@ Tach:
 - table
 
 TODO: 
-1. we will create nau ber
-2. we will create photo
-3. some design
+1. we will create nau ber (done)
+2. we will create photo (done)
+3. table (done)
+4. design (done)
+5. add link
+6. location
+
 
   
 
